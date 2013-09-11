@@ -1,0 +1,27 @@
+TODO:
+
+
+1 HOUR
+ - Sort dictionary keys for main page
+ - Add Activity animated thing to the browserViewController while it is loading shit
+ - Set the UX colors for the RootView to be the same as those for the Mail client
+ - Make the update could label background to have rounded corners and be sized beautifully
+ - Make the space below the end of a table dark or with some fancy texture
+ X Change refresh to allow 3 updates to location to see if that makes the refresh more accurate
+ X Add all the hard coded accounts back in
+ X See if there is a current temperature in the NOAA feed - NOPE
+ X Enable the 'Email' button in the CategoryViewController
+ X Enable the 'Open in Browser' button in CategoryViewController
+
+2 HOUR
+ - Add Give Feedback as the last row in the RootView table
+ - Add button in browserViewController that will open the link in Safari so people can bookmark, etc.
+ X Custom rendoring view for the weather cell
+ 
+4 HOUR
+ X Drag down to refresh data - GAVE UP more work than I thought, not that useful for the app
+ 
+BIG
+ - Backend service for curated twitter accounts
+ - Groupon Support
+ - Earthquake support
